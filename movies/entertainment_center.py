@@ -9,8 +9,8 @@ faster_pussycat = media.Movie("Faster, Pussycat! Kill! Kill!",
 
 kellys_heros = media.Movie("Kelly's Heros",
                            "World War 2 from a 70's perspective",
-                           "http://imgc.allpostersimages.com/images/P-473-488-90"
-                           "/56/5665/DR1UG00Z/posters/kelly-s-heroes.jpg",
+                           "https://s-media-cache-ak0.pinimg.com/originals/d7/86/e8/"
+                           "d786e83667e6d2bafb62a5e88dcb7df7.jpg",
                            "https://www.youtube.com/watch?v=Iby1Ni0VJxg")
 
 extreme_prejudice = media.Movie("Extreme Prejudice",

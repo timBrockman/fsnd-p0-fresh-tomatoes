@@ -3,7 +3,7 @@ import fresh_tomatoes
 
 faster_pussycat = media.Movie("Faster, Pussycat! Kill! Kill!",
                               "Go Go Girls run amok",
-                              "http://t0.gstatic.com/images?q=tbn:ANd9GcSe9_tk9j-Pzg6Qa0"
+                              "https://t0.gstatic.com/images?q=tbn:ANd9GcSe9_tk9j-Pzg6Qa0"
                               "__ihIc1G0jxpubmiIksLa0NF_Nl4GIRV9y",
                               "https://www.youtube.com/watch?v=tiE4QWPDxus")
 

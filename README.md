@@ -13,4 +13,6 @@ Once you done that use the following command:
 
 `python movies`
 
-This will create a fresh fresh_tomatoes.html file. You can then view this page on your local machine.
+This will create a fresh ***index.html file in the dist folder*** for deployment.
+Note: This has been altered from the original version.
+You can then view this page on your local machine.

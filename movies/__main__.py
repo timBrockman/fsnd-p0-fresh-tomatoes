@@ -36,7 +36,7 @@ def main():
                                     "https://www.youtube.com/watch?"
                                     "v=vCqRCutZsGo")
 
-    # store movie instances in an array
+    # store movie instances in a list
     movies = [faster_pussycat, extreme_prejudice, kellys_heros]
 
     # create fresh tomatoes page from instances
